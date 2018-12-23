@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "hellomvn",
+                "projectName": "hellomvn",
+                "workingDirectory": "/Users/hyun/hellomvn",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "hellomvn",
+                "projectName": "hellomvn",
+                "workingDirectory": "/Users/hyun/hellomvn",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
